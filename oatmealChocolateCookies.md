@@ -7,23 +7,24 @@ This is the recipe to the delicious chocolate chip cookies from an old newspaper
 *Total time*    Anything from an hour to four, depending on how ridiculously slow you go, and how many times you've done it before. Understandably, it will take longer if you make a double batch (something which I highly recommend, since they taste so darn good!) With a double batch, I have been able to do it in an hour (albeit by pawning off the cleaning to someone else).
 
 ## Ingredients ##
-*Single*      |  *Double*   |
---------------|-------------|--------------------
-1 cup         |  2 cups     | butter (softened, see (0))
-3/4 cup       |  1 1/2 cups | granulated sugar
-3/4 cup       |  1 1/2 cups | packed brown sugar
-1 tsp         |  2 tsp      | vanilla
-2             |  4          | eggs
-              |             |
-2 cups        |  4 cups     | flower
-1 cup         |  2 cups     | oatmeal
-1 tsp         |  2 tsp      | salt
-1 tsp         |  2 tsp      | baking soda
-              |             |
-2 cups        |  4 cups     | chocolate chips (or M&M's, chopped Toblerone, etc.)
------------------*Optional*----------------------
-1 cup         |  2 cups     | nuts (pecans are nice)
-To taste      |  2x as much | shredded coconut
+|  *Single*    |  *Double*   |      *Wet*           |
+|--------------|-------------|--------------------  |
+|  1 cup       |  2 cups     | butter (softened, see (0))  |
+|  3/4 cup     |  1 1/2 cups | granulated sugar     |
+|  3/4 cup     |  1 1/2 cups | packed brown sugar   |
+|  1 tsp       |  2 tsp      | vanilla              |
+|  2           |  4          | eggs                 |
+|              |             |     *Dry*            |
+|  2 cups      |  4 cups     | flower               |
+|  1 cup       |  2 cups     | oatmeal              |
+|  1 tsp       |  2 tsp      | salt                 |
+|  1 tsp       |  2 tsp      | baking soda          |
+|              |             |                      |
+|  2 cups      |  4 cups     | chocolate chips (or M&M's, chopped Toblerone, etc.)     |
+|              |             |                      |
+|              |             |     *Optional*       |
+|  1 cup       |  2 cups     | nuts (pecans are yummy)               |
+|  To taste    |  2x as much | shredded coconut     |
 
 ## Directions ##
 0.  Pre-heat the oven to 375ºF (190ºC). [Place the butter near the oven to soften it.]
