@@ -9,7 +9,7 @@ Replacing some of the butter from my favorite chocolate chip cookie recipe with 
 
 Ingredients:
 ------------
-Single        | Double        |
+Single        | Double        | Ingredient
 --------------|---------------|-----------------
 1/2 cup       | 1 cup         | (1,2 stick(s)) unsalted butter, softened
 1/4 cup       | 1/2 cup       | cream cheese, softened (use cream cheese in a block or spreadable, don't use fat-free, light or whipped)
