@@ -9,19 +9,20 @@ Replacing some of the butter from my favorite chocolate chip cookie recipe with 
 
 Ingredients:
 ------------
-Single          Double
-1/2 cup         1 cup           (1,2 stick(s)) unsalted butter, softened
-1/4 cup         1/2 cup         cream cheese, softened (use cream cheese in a block or spreadable, don't use fat-free, light or whipped)
-3/4 cup         1 1/2 cup       light brown sugar, packed
-1/4 cup         1/2 cup         granulated sugar
-1               2               large egg(s)
-2               4               teaspoons vanilla extract
-
-2 1/4 cups      4 1/2 cups      all-purpose flour
-2 teaspoons     4 teaspoons     cornstarch
-1 teaspoons     2 teaspoons     baking soda
-1/4 teaspoon    1/2 teaspoon    salt, optional and to taste
-2 1/4 cups      4 1/2 cups      semi-sweet chocolate chips or chunks (I used 1 cup chips and 1 1/4 cups chunks)
+Single        | Double        |
+--------------|---------------|-----------------
+1/2 cup       | 1 cup         | (1,2 stick(s)) unsalted butter, softened
+1/4 cup       | 1/2 cup       | cream cheese, softened (use cream cheese in a block or spreadable, don't use fat-free, light or whipped)
+3/4 cup       | 1 1/2 cup     | light brown sugar, packed
+1/4 cup       | 1/2 cup       | granulated sugar
+1             | 2             | large egg(s)
+2             | 4             | teaspoons vanilla extract
+-             |   -           |
+2 1/4 cups    | 4 1/2 cups    | all-purpose flour
+2 teaspoons   | 4 teaspoons   | cornstarch
+1 teaspoons   | 2 teaspoons   | baking soda
+1/4 teaspoon  | 1/2 teaspoon  | salt, optional and to taste
+2 1/4 cups    | 4 1/2 cups    | semi-sweet chocolate chips or chunks (I used 1 cup chips and 1 1/4 cups chunks)
 
 Directions:
 -----------
